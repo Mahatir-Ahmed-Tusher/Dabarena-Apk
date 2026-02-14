@@ -6,12 +6,6 @@
 
 ---
 
-## 👨‍💻 Developer
-**Mahatir Ahmed**  
-Dabarena was envisioned and developed by Mahatir Ahmed as a cultural and technical bridge—bringing a world-class chess platform to the Bengali-speaking community while maintaining a global, professional appeal.
-
----
-
 ## 🎯 Key Features
 
 ### 🤖 Intelligent Opponents
