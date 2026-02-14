@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Dabarena" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="Theme.Dabarena" parent="Base.Theme.Dabarena" />
+
+    <!-- Grandeur Splash Screen Theme -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- The logo/icon -->
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        
+        <!-- Deep Dark background for a premium chess feel -->
+        <item name="windowSplashScreenBackground">@color/splash_bg</item>
+        
+        <!-- Post splash theme -->
+        <item name="postSplashScreenTheme">@style/Theme.Dabarena</item>
+        
+        <!-- How long it stays (short is better for UX, handled in code too) -->
+        <item name="windowSplashScreenAnimationDuration">200</item>
+    </style>
+</resources>
