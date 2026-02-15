@@ -9,7 +9,7 @@
 ## 🎯 Key Features
 
 ### 🤖 Intelligent Opponents
-- **Play vs Dabaru AI**: Powered by Stockfish, offering 5 levels of difficulty from Beginner to Master.
+- **Play vs Dabaru AI**: Powered by our very own Dabaru AI, offering 5 levels of difficulty from Beginner to Master.
 - **Play vs LLM**: Experience the next generation of chess AI. Challenge an LLM-powered opponent that doesn't just play moves, but understands the game's flow and strategy in a human-like way.
 - **Mischievous Personality**: The AI isn't just a machine. "Dabaru" is known for its witty, mischievous, and context-aware taunts in both English and Bengali, making every match feel alive.
 
