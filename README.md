@@ -1,4 +1,4 @@
-# ♟️ Dabarena – Your Premium Chess Arena
+#  Dabarena – Your Premium Chess Arena
 
 <p align="center">
   <strong>A modern, mobile-first chess experience featuring bilingual support, mischievous AI, and immersive gameplay.</strong>
