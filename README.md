@@ -39,7 +39,7 @@ This app isn't just a wrapper; it's optimized for a premium Android experience:
 
 ## 🚀 How to Play
 1. **Launch**: Open Dabarena and enjoy the smooth splash transition.
-2. **Choose Your Challenge**: Select between the Stockfish-powered AI, the new LLM opponent, or a friend.
+2. **Choose Your Challenge**: Select between the Dabaru AI, the new LLM opponent, or a friend.
 3. **Customize**: Set your preferred language, board theme, and timer.
 4. **Dominate**: Move your pieces with a simple click-to-move interface and listen for the satisfying sound of a checkmate.
 
